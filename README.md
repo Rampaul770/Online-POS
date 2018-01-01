@@ -1,7 +1,6 @@
 # pharmacy-pos-online
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This app was initially forked from Wallace POS and hopes to create an online app (with Firebase as an online database) focussed on user friendliness borrowing from the code of the offline fork available from Magnum Softwares based in Kenya.
 
 ## Prerequisites
 
@@ -40,8 +39,7 @@ Make use of the many generators for code, try `ember help generate` for more det
 
 ### Deploying
 
-Specify what it takes to deploy your app.
-
+**coming soon 
 ## Further Reading / Useful Links
 
 * [ember.js](https://emberjs.com/)
