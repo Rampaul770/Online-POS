@@ -39,7 +39,7 @@ Make use of the many generators for code, try `ember help generate` for more det
 
 ### Deploying
 
-**coming soon 
+**coming soon yaay!
 ## Further Reading / Useful Links
 
 * [ember.js](https://emberjs.com/)
